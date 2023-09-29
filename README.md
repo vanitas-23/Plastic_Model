@@ -27,3 +27,7 @@ Furthermore, the plastics extracted from the rivers can be recycled and reused b
 
 <h2>Conclusion:</h2>
 Plastic FC presents a groundbreaking solution to the global issue of plastic pollution in rivers. By harnessing the power of machine learning and advanced image processing techniques, this innovative technology enables the detection and removal of plastic, contributing to the preservation of our environment.
+The ability to track plastic and calculate the distance between it and the user allows for efficient planning and resource allocation, ensuring that efforts are focused on areas where they are most needed. Plastic FC is a significant step towards a cleaner and healthier future for our rivers and water bodies.
+
+<h2>Summary:</h2>
+Plastic FC is a cutting-edge solution that utilizes the YOLOv8 model to detect plastic waste. Its scalability allows for easy implementation in various locations, making it adaptable to different environments. By providing real-time information to the authorities, Plastic FC enables prompt action in removing plastic from rivers. This innovative solution has the potential to make a significant impact in combating plastic pollution and safeguarding our environment.
